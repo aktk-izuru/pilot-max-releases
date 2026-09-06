@@ -4,7 +4,7 @@
 
 XP-Pen Pilot Proのボタン・ノブ・ダイアル・ジョイスティックに、アプリごとの操作を割り当てる常駐コントロールアプリです。
 
-**初版を検証中です。** このリポジトリでは、配布ファイル、インストール手順、更新情報を公開します。アプリのソースコードは非公開で管理しています。
+**初版は評価用です。** 最新の配布ファイルは [最新リリース](https://github.com/aktk-izuru/pilot-max-releases/releases/latest) から取得できます。このリポジトリでは、配布ファイル、インストール手順、更新情報を公開します。アプリのソースコードは非公開で管理しています。
 
 ## 対象環境
 
@@ -31,4 +31,4 @@ XP-Pen Pilot Proのボタン・ノブ・ダイアル・ジョイスティック�
 
 Pilot Max maps Pilot Pro controls to application-specific actions on Windows 11 x64 and Apple Silicon macOS 26+. It includes keyboard shortcuts, window layouts, media control, scrolling, Unicode text, macros, and automatic profiles including Wine executable/Bottle matching on macOS.
 
-This repository hosts installers, installation instructions and signed update metadata. Source code is maintained privately. The initial version is under validation; USB reports have been captured on macOS 27, while receiver, Bluetooth, macOS 26 and physical Windows verification remain pending. Check each release's validation notes before installing.
+This repository hosts installers, installation instructions and signed update metadata. Source code is maintained privately. The initial release is for evaluation; USB reports have been captured on macOS 27, while receiver, Bluetooth, macOS 26 and physical Windows verification remain pending. Check each release's validation notes before installing.
