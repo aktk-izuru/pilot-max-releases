@@ -15,6 +15,7 @@ XP-Pen Pilot Proのボタン・ノブ・ダイアル・ジョイスティック�
 ## 機能
 
 - ウィンドウ配置・全画面切り替え、キーコンビネーション、メディア操作、縦横スクロール、テキスト入力。
+- 任意コマンドの実行（作業フォルダー指定）とアプリの起動。ボタンやマクロに割り当てられます。[使い方](ACTIONS.md)。
 - 待機・回数指定の繰り返しを含むマクロ。
 - 最前面のアプリに応じたプロファイル切り替え。macOSのWineではWindows側exeと任意のBottleを指定できます。
 - 署名を検証した更新ファイルの自動取得と、ユーザー操作による適用・再起動。
@@ -29,6 +30,6 @@ Windowsインストーラーは未署名です。macOS 0.1.3以降はPilot Max�
 
 ## English
 
-Pilot Max maps Pilot Pro controls to application-specific actions on Windows 11 x64 and Apple Silicon macOS 26+. It includes keyboard shortcuts, window layouts, media control, scrolling, Unicode text, macros, and automatic profiles including Wine executable/Bottle matching on macOS.
+Pilot Max maps Pilot Pro controls to application-specific actions on Windows 11 x64 and Apple Silicon macOS 26+. It includes keyboard shortcuts, window layouts, media control, scrolling, Unicode text, shell commands, application launching, macros, and automatic profiles including Wine executable/Bottle matching on macOS. See [command and application actions](ACTIONS.md).
 
 This repository hosts installers, installation instructions and signed update metadata. Source code is maintained privately. The initial release is for evaluation; USB reports have been captured on macOS 27, while receiver, Bluetooth, macOS 26 and physical Windows verification remain pending. Check each release's validation notes before installing.
